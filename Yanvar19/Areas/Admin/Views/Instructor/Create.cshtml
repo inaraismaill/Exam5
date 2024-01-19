@@ -1,0 +1,27 @@
+﻿@model InstructorUPdateVM
+<main style="margin:3rem">
+    <form method="post">
+        <div class="mb-3">
+            <div class="col-md-10">
+                <label class="form-label">Name</label>
+                <input asp-for="Name" placeholder="Name" class="form-control" />
+                <span asp-validation-for="Name"  class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3">
+            <div class="col-md-10">
+                <label class="form-label">Job</label>
+                <input asp-for="Job" placeholder="Job" class="form-control" />
+                <span asp-validation-for="Job" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="mb-3">
+            <div class="col-md-10">
+                <label class="form-label">Picture</label>
+                <input asp-for="Picture" placeholder="Picture" class="form-control" />
+                <span asp-validation-for="Picture" class="text-danger"></span>
+            </div>
+        </div>
+        <button type="submit" asp-action="Index" asp-controller="Instructor" class="btn btn-primary">Submit</button>
+    </form>
+</main>

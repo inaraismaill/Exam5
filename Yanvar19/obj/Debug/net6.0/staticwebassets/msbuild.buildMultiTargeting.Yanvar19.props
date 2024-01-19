@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Yanvar19.props" />
+</Project>

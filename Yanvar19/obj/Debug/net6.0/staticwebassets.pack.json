@@ -1,0 +1,577 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Yanvar19.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Yanvar19.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\css\\style.css",
+      "PackagePath": "staticwebassets\\home\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\home\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\bg-image.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\bg-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\courses-1.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\courses-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\courses-2.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\courses-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\courses-3.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\courses-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\courses-4.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\courses-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\courses-5.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\courses-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\courses-6.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\courses-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\courses-80x80.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\courses-80x80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\feature.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\overlay-bottom.png",
+      "PackagePath": "staticwebassets\\home\\img\\overlay-bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\overlay-top.png",
+      "PackagePath": "staticwebassets\\home\\img\\overlay-top.png"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\page-header.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\page-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\home\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\js\\main.js",
+      "PackagePath": "staticwebassets\\home\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\home\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\home\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\home\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\home\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\home\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\home\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\home\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\home\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\home\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\home\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\home\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\home\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\home\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\home\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\home\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\home\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Birinci Novbe\\Desktop\\Yanvar19\\Yanvar19\\wwwroot\\home\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\home\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Yanvar19.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Yanvar19.props",
+      "PackagePath": "build\\Yanvar19.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Yanvar19.props",
+      "PackagePath": "buildMultiTargeting\\Yanvar19.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Yanvar19.props",
+      "PackagePath": "buildTransitive\\Yanvar19.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
